@@ -16,11 +16,19 @@
 
 Im currently working on my personal portfolio. :sun_with_face:
 
+**About Me** 
+
+I just finished my studies at Noroff School of technology and digital media. 
+I am currently living in Oslo. 
+Exited about the future and to develop futher skills in the field. 
+
 My skills: 
+- UI Design
 - Javascript 
 - HTML
 - CSS
 - React
+
 
 <!--
 **lonsoien/lonsoien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
