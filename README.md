@@ -24,10 +24,14 @@ Exited about the future and to develop futher skills in the field.
 
 My skills: 
 - UI Design
+- UX Design
 - Javascript 
 - HTML
 - CSS
+- SASS
+- Bootstrap
 - React
+- Next
 
 
 <!--
