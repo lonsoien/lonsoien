@@ -14,13 +14,13 @@
 
 **My name is Louise and I am a Frontend Developer** 
 
-Im currently working on my personal portfolio. :sun_with_face:
+Im currently working on digital webdesigns for my business website. :sun_with_face:
 
 **About Me** 
 
-I just finished my studies at Noroff School of technology and digital media. 
+I studied frontend at Noroff School of technology and digital media. 
 I am currently living in Oslo. 
-Exited about the future and to develop futher skills in the field. 
+Exited about the future and love to be working creativetly with webdesigns and envovle my own style. 
 
 My skills: 
 - UI Design
@@ -32,6 +32,9 @@ My skills:
 - Bootstrap
 - React
 - Next
+- Sanity
+- Wordpress
+- Svelte (a little)
 
 
 <!--
